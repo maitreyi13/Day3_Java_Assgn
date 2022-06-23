@@ -1,4 +1,8 @@
 # Build and Release Folders
+.idea/
+Day3_Java_Assgn/
+TQ_JF_LP01.iml
+out/
 bin-debug/
 bin-release/
 [Oo]bj/
